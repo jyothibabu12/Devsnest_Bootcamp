@@ -1,10 +1,10 @@
 1#Input:
     World
 #Output:
- # Hello, World
-
-
-    user_name=input()
+ # Hello, world
+ 
+ 
+  user_name=input()
 print("Hello, " +user_name)
 
 
